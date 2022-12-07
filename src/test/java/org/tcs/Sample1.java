@@ -13,5 +13,17 @@ public class Sample1 {
 		System.out.println(3);
 
 	}
+	private void naren4() {
+		System.out.println(4);
+
+	}
+	private void naren5() {
+		System.out.println(5);
+
+	}
+	private void naren6() {
+	System.out.println(6);
+
+	}
 
 }
